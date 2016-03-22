@@ -1,5 +1,6 @@
 # Ionic-cordova-boilerplate
 A simple boilerplate for ionic framework (with angularjs) bootstraping cordova  
+------------------------------------------------------------------------------
 
 # To Start The Project
 1. make sure you have nodejs `node -v`, if not on go here : `https://nodejs.org/en/`
