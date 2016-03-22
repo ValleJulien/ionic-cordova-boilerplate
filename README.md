@@ -3,11 +3,16 @@ A simple boilerplate for ionic framework (with angularjs) bootstraping cordova
 ------------------------------------------------------------------------------
 
 # To Start The Project
-1. make sure you have nodejs `node -v`, if not on go here : `https://nodejs.org/en/`
+1. clone the repo and make sure you have nodejs `node -v`, if not on go here : `https://nodejs.org/en/`
 2. then install cordova (linux command, for windows use git bash to use linux command): `sudo npm install -g cordova`
 3. install ionic `sudo npm install -g ionic`
 4. install bower globally if not `npm install -g bower`
 5. install ng cordova throught bower `bower install ngCordova`
+
+# If all are already installed
+1. first clone the project
+2. `npm install`
+3. `bower install ngCordova`
 
 # Create a ionic project
 . `ionic start <yourProjectName> blank`
