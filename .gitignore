@@ -1,0 +1,17 @@
+node_modules/
+bower_components/
+temp/
+*.DS_Store
+*.log
+*.swp
+.tmp
+.sass-cache
+platforms/
+plugins/
+.idea
+dist/
+.versions
+*.sublime-project
+*.sublime-workspace
+*.keystore
+log.txt
