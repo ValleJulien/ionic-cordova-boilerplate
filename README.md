@@ -28,3 +28,6 @@ A simple boilerplate for ionic framework (with angularjs) bootstraping cordova
 
 # Starting your own app
 . just follow the guide here `http://ionicframework.com/docs/guide/starting.html`
+
+# Use Ionci view on your device
+. to test your app on ionic view `ionic upload`, make sure you have donwloaded ionic view app on your device (`http://view.ionic.io/`)
